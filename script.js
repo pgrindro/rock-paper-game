@@ -48,7 +48,7 @@ function game(){
         const computerSelection = getComputerChoice(array);
         //console.log(computerSelection);
         
-        const originalPlayer = prompt("Choose: Rock, Paper or Scissors");
+       // const originalPlayer = prompt("Choose: Rock, Paper or Scissors");
         const playerSelection = originalPlayer.toUpperCase();
         
         
